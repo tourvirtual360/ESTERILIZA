@@ -3,7 +3,7 @@
 ## Tour
 
 ### Description
-tour.description = EXCELÊNCIA EM ESTERILIZAÇÃO
+tour.description = Excelência em Esterilização
 
 ### Title
 tour.name = ESTERILIZA
