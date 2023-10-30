@@ -25,6 +25,19 @@ panorama_6426386D_6F05_2232_41B6_82B67EEE216E.label = 09
 panorama_65A3288A_6F05_22F1_41D0_9CD20DBF706D.label = 07
 video_8C10899E_8240_E8E2_41DA_B08773A6FD57.label = video-2
 video_8D2F7DF5_8240_A827_41C8_B47293B5510C.label = video-1
+video_91CC65BF_8241_B823_41CF_3606B49EF721.label = Vídeo-3
+
+## Popup
+
+### Body
+htmlText_9172C7D1_82C0_987F_41CD_4A988E8BE203.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_978B0AE3_82C3_A822_41DC_2B907D7EACA0.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_97D836FF_82C0_B823_41CC_440D946E8465.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_968C67DB_82C0_9863_41D1_47346B33CBC6.title = DEMONSTRAÇAO RASTREABILIDADE
+window_97BECAB5_82C1_A826_41C9_D92502B4AF3E.title = DEMONSTRAÇAO
+window_97D7E701_82C0_B9DF_41D6_88A40934CE2F.title = SAÍDA CARROS COM MATERIAL LIMPO
 
 ## Hotspot
 
@@ -32,3 +45,4 @@ video_8D2F7DF5_8240_A827_41C8_B47293B5510C.label = video-1
 HotspotPanoramaOverlayArea_4D15171B_5F05_0B34_41C1_C3A9B3DA6A90.toolTip = SAÍDA MATERIAL LIMPO
 HotspotPanoramaOverlayArea_8C57EFBA_8243_A82D_41A6_E5FCF2392AC0.toolTip = DEMONSTRAÇÃO
 HotspotPanoramaOverlayArea_8C6EF75D_824F_9866_41D3_ED222318F5EA.toolTip = DEMONSTRAÇÃO
+HotspotPanoramaOverlayArea_93B951CB_8240_B863_41C2_808B588381D5.toolTip = DEMONSTRAÇAO SAÍDA VEÍCULOS
